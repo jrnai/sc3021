@@ -1,0 +1,138 @@
+,TroopName,Cost,HitSpeed,FirstHitSpeed,Speed,DeployTime,Range,SplashRadius,ProjectileSpeed,Target,Count,Transport,Type,Rarity
+0,Archer_Queen,5,1.2 sec,0.3 sec,Medium (60),1 sec,5,N/A,800,Air & Ground,x1,Ground,Troop,Champion
+1,Archers,3,0.9 sec,0.5 sec,Medium (60),1 sec,5,N/A,600,Air & Ground,x2,Ground,Troop,Common
+2,Archers/Evolution,3,0.9 sec,0.5 sec,Medium (60),1 sec,6,N/A,600,Air & Ground,x2,Ground,Troop,Common
+3,Baby_Dragon,4,1.5 sec,0.3 sec,Fast (90),1 sec,3.5,1.5,500,Air & Ground,x1,Air,Troop,Epic
+4,Balloon,5,2 sec,0.2 sec,Medium (60),1 sec,Melee: Short (0.1),N/A,N/A,Buildings,x1,Air,Troop,Epic
+5,Balloon,N/A,N/A,N/A,N/A,3 sec,N/A,N/A,N/A,Air & Ground,N/A,N/A,N/A,N/A
+6,Bandit,3,1 sec,0.4 sec,Fast (90),1 sec,Melee: Short (0.75),N/A,N/A,Ground,x1,Ground,Troop,Legendary
+7,Barbarians,5,1.3 sec,0.4 sec,Medium (60),1 sec,Melee: Short (0.7),N/A,N/A,Ground,x5,Ground,Troop,Common
+8,Barbarians/Evolution,5,1.3 sec,0.4 sec,Medium (60),1 sec,Melee: Short (0.7),N/A,N/A,Ground,x5,Ground,Troop,Common
+9,Bats,2,1.3 sec,0.6 sec,Very Fast (120),1 sec,Melee: Medium (1.2),N/A,N/A,Air & Ground,x5,Air,Troop,Common
+10,Bats/Evolution,2,1.3 sec,0.6 sec,Very Fast (120),1 sec,Melee: Medium (1.2),N/A,N/A,Air & Ground,x5,Air,Troop,Common
+11,Battle_Healer,4,1.5 sec,N/A,Medium (60),1 sec,Melee: Long (1.6),N/A,N/A,Ground,x1,Ground,Troop,Rare
+12,Battle_Healer,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Friendly Troops,N/A,N/A,N/A,N/A
+13,Battle_Healer,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Friendly Troops,N/A,N/A,N/A,N/A
+14,Battle_Ram,4,N/A,N/A,Medium (60),1 sec,Melee: Short (0.5),N/A,N/A,Buildings,x1,Ground,Troop,Rare
+15,Battle_Ram/Evolution,4,N/A,N/A,Medium (60),1 sec,Melee: Short (0.5),N/A,N/A,Buildings,x1,Ground,Troop,Rare
+16,Berserker,2,0.5 sec,0.2 sec,Fast (90),1 sec,Melee: Short (0.8),N/A,N/A,Ground,x1,Ground,Troop,Common
+17,Bomber,2,1.8 sec,0.2 sec,Medium (60),1 sec,4.5,1.5,400,Ground,x1,Ground,Troop,Common
+18,Bomber/Evolution,2,1.8 sec,0.2 sec,Medium (60),1 sec,4.5,1.5,400,Ground,x1,Ground,Troop,Common
+19,Boss_Bandit,6,1.2 sec,0.4 sec,Fast (90),1 sec,Melee: Short (0.8),N/A,N/A,Ground,x1,Ground,Troop,Champion
+20,Bowler,5,2.5 sec,0.5 sec,Slow (45),1 sec,4,N/A,170,Ground,1x,Ground,Troop,Epic
+21,Cannon_Cart,5,0.9 sec,0.5 sec,Medium (60),1 sec,5.5,N/A,1000,Ground,x1,Ground,Troop,Epic
+22,Dark_Prince,4,1.3 sec,0.4 sec,Medium (60),1 sec,Melee: Medium (1.2),1.1,N/A,Ground,x1,Ground,Troop,Epic
+23,Dart_Goblin,3,0.7 sec,0.35 sec,Very Fast (120),1 sec,6.5,N/A,800,Air & Ground,x1,Ground,Troop,Rare
+24,Dart_Goblin/Evolution,3,0.7 sec,0.35 sec,Very Fast (120),1 sec,6.5,N/A,800,Air & Ground,x1,Ground,Troop,Rare
+25,Electro_Dragon,5,2.1 sec,0.7 sec,Medium (60),1 sec,3.5,N/A,N/A,Air & Ground,x1,Air,Troop,Epic
+26,Electro_Dragon/Evolution,5,2.1 sec,0.7 sec,Medium (60),1 sec,3.5,N/A,N/A,Air & Ground,x1,Air,Troop,Epic
+27,Electro_Giant,7,2.1 sec,1.5 sec,Slow (45),1 sec,Melee: Medium (1.2),N/A,N/A,Buildings,x1,Ground,Troop,Epic
+28,Electro_Spirit,1,N/A,N/A,Very Fast (120),1 sec,2.5,N/A,N/A,Air & Ground,x1,Ground,Troop,Common
+29,Electro_Wizard,4,1.8 sec,0.6 sec,Fast (90),1 sec,5,N/A,N/A,Air & Ground,N/A,Ground,Troop,Legendary
+30,Electro_Wizard,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Air & Ground,N/A,N/A,N/A,N/A
+31,Elite_Barbarians,6,1.4 sec,0.5 sec,Fast (90),1 sec,Melee: Medium (1.2),N/A,N/A,Ground,x2,Ground,Troop,Common
+32,Elixir_Golem,3,1.1 sec,0.8 sec,Slow (45),1 sec,Melee: Short (0.8),N/A,N/A,Buildings,x1,Ground,Troop,Rare
+33,Executioner,5,0.9 sec,0.5 sec,Medium (60),1 sec,4.5,N/A,550,Air & Ground,x1,Ground,Troop,Epic
+34,Executioner/Evolution,5,0.9 sec,0.5 sec,Medium (60),1 sec,4.5,N/A,550,Air & Ground,x1,Ground,Troop,Epic
+35,Fire_Spirit,1,N/A,N/A,Very Fast (120),1 sec,2.5,2.3,N/A,Air & Ground,x1,Ground,Troop,Common
+36,Firecracker,3,3 sec,0.65 sec,Fast (90),1 sec,6,N/A,550,Air & Ground,x1,Ground,Troop,Common
+37,Firecracker/Evolution,3,3 sec,0.65 sec,Fast (90),1 sec,6,N/A,550,Air & Ground,x1,Ground,Troop,Common
+38,Fisherman,3,1.3 sec,0.1 sec,Medium (60),1 sec,Melee: Medium (1.2),N/A,N/A,Ground,1,Ground,Troop,Legendary
+39,Flying_Machine,4,1.1 sec,0.5 sec,Fast (90),1 sec,6,N/A,800,Air & Ground,x1,Air,Troop,Rare
+40,Giant,5,1.5 sec,0.5 sec,Slow (45),1 sec,Melee: Medium (1.2),N/A,N/A,Buildings,x1,Ground,Troop,Rare
+41,Giant_Skeleton,6,1.4 sec,0.3 sec,Medium (60),1 sec,Melee: Short (0.8),N/A,N/A,Ground,x1,Ground,Troop,Epic
+42,Giant_Skeleton,N/A,N/A,N/A,N/A,3 sec,N/A,N/A,N/A,Air & Ground,N/A,N/A,N/A,N/A
+43,Goblin_Demolisher,4,1.2 sec,0.5 sec,Medium (60),1 sec,5,N/A,N/A,Ground,x1,Ground,Troop,Rare
+44,Goblin_Demolisher,N/A,N/A,N/A,Very Fast (120),N/A,N/A,N/A,N/A,Buildings,N/A,Ground,N/A,N/A
+45,Goblin_Gang,N/A,1.1 sec,0.6 sec,Very Fast (120),N/A,Melee: Short (0.5),N/A,N/A,Ground,x3,Ground,N/A,N/A
+46,Goblin_Giant,6,1.5 sec,0.8 sec,Medium (60),1 sec,Melee: Medium (1.2),N/A,N/A,Buildings,x1,Ground,Troop,Epic
+47,Goblin_Giant/Evolution,6,1.5 sec,0.8 sec,Medium (60),1 sec,Melee: Medium (1.2),N/A,N/A,Buildings,x1,Ground,Troop,Epic
+48,Goblin_Machine,5,1.2 sec,0.5 sec,Medium (60),1 sec,Melee: Medium (1.2),N/A,N/A,Ground,x1,Ground,Troop,Legendary
+49,Goblin_Machine,N/A,3.5 sec,1.5 sec,N/A,N/A,2.5-5,N/A,N/A,Air & Ground,N/A,N/A,N/A,N/A
+50,Goblins,2,1.1 sec,0.6 sec,Very Fast (120),1 sec,Melee: Short (0.5),N/A,N/A,Ground,x4,Ground,Troop,Common
+51,Goblinstein,N/A,1.8 sec,0.5 sec,Medium (60),N/A,5.5,N/A,N/A,Air & Ground,x1,Ground,N/A,N/A
+52,Golden_Knight,4,0.9 sec,0.2 sec,Medium (60),1 sec,Melee: Medium (1.2),N/A,N/A,Ground,x1,Ground,Troop,Champion
+53,Golem,8,2.5 sec,1 sec,Slow (45),3 sec,Melee: Short (0.75),N/A,N/A,Buildings,x1,Ground,Troop,Epic
+54,Guards,3,1 sec,0.4 sec,Fast (90),1 sec,Melee: Long (1.6),N/A,N/A,Ground,x3,Ground,Troop,Epic
+55,Heal_Spirit,1,N/A,N/A,Very Fast (120),1 sec,2.5,1.5,N/A,Air & Ground,N/A,Ground,Troop,Rare
+56,Heal_Spirit,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Air & Ground,N/A,N/A,N/A,N/A
+57,Hog_Rider,4,1.6 sec,0.6 sec,Very Fast (120),1 sec,Melee: Short (0.8),N/A,N/A,Buildings,x1,Ground,Troop,Rare
+58,Hunter,4,2.2 sec,0.8 sec,Medium (60),1 sec,4,N/A,550,Air & Ground,x1,Ground,Troop,Epic
+59,Hunter/Evolution,4,2.2 sec,0.8 sec,Medium (60),1 sec,4,N/A,550,Air & Ground,x1,Ground,Troop,Epic
+60,Ice_Golem,2,2.5 sec,1 sec,Slow (45),1 sec,Melee: Short (0.75),N/A,N/A,Buildings,x1,Ground,Troop,Rare
+61,Ice_Spirit,1,N/A,N/A,Very Fast (120),1 sec,2.5,1.5,N/A,Air & Ground,N/A,Ground,Troop,Common
+62,Ice_Spirit/Evolution,1,N/A,N/A,Very Fast (120),1 sec,2.5,2,N/A,Air & Ground,N/A,Ground,Troop,Common
+63,Ice_Wizard,3,1.7 sec,0.5 sec,Medium (60),1 sec,5.5,1.5,700,Air & Ground,x1,Ground,Troop,Legendary
+64,Inferno_Dragon,4,0.4 sec,N/A,Medium (60),1 sec,3.5,N/A,N/A,Air & Ground,x1,Air,Troop,Legendary
+65,Knight,3,1.2 sec,0.5 sec,Medium (60),1 sec,Melee: Medium (1.2),N/A,N/A,Ground,x1,Ground,Troop,Common
+66,Knight/Evolution,3,1.2 sec,0.5 sec,Medium (60),1 sec,Melee: Medium (1.2),N/A,N/A,Ground,x1,Ground,Troop,Common
+67,Lava_Hound,7,1.3 sec,1 sec,Slow (45),1 sec,3.5,N/A,400,Buildings,x1,Air,Troop,Legendary
+68,Little_Prince,3,N/A,0.4 sec,Medium (60),1 sec,5.5,N/A,800,Air & Ground,x1,Ground,Troop,Champion
+69,Little_Prince,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ground,N/A,N/A,N/A,N/A
+70,Lumberjack,4,0.8 sec,0.4 sec,Very Fast (120),1 sec,Melee: Short (0.7),N/A,N/A,Ground,N/A,Ground,Troop,Legendary
+71,Lumberjack/Evolution,4,0.8 sec,0.4 sec,Very Fast (120),1 sec,Melee: Short (0.7),N/A,N/A,Ground,N/A,Ground,Troop,Legendary
+72,Magic_Archer,4,1.1 sec,0.7 sec,Medium (60),1 sec,7,N/A,1000,Air & Ground,x1,Ground,Troop,Legendary
+73,Mega_Knight,7,1.7 sec,0.5 sec,Medium (60),1 sec,Melee: Medium (1.2),1.3,N/A,Ground,x1,Ground,Troop,Legendary
+74,Mega_Knight/Evolution,7,1.7 sec,0.5 sec,Medium (60),1 sec,Melee: Medium (1.2),1.3,N/A,Ground,x1,Ground,Troop,Legendary
+75,Mega_Minion,3,1.5 sec,0.4 sec,Medium (60),1 sec,Melee: Long (1.6),N/A,1000,Air & Ground,x1,Air,Troop,Rare
+76,Mighty_Miner,4,0.4 sec,N/A,Medium (60),1 sec,Melee: Long (1.6),N/A,N/A,Ground,x1,Ground,Troop,Champion
+77,Mighty_Miner,1,N/A,N/A,N/A,1 sec,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+78,Miner,3,1.2 sec,0.5 sec,Fast (90),1 sec,Melee: Medium (1.2),N/A,N/A,Ground,x1,Ground,Troop,Legendary
+79,Mini_P.E.K.K.A.,4,1.6 sec,0.5 sec,Fast (90),1 sec,Melee: Short (0.8),N/A,N/A,Ground,x1,Ground,Troop,Rare
+80,Minion_Horde,5,1 sec,0.5 sec,Fast (90),1 sec,Melee: Long (1.6),N/A,1000,Air & Ground,x6,Air,Troop,Common
+81,Minions,3,1 sec,0.5 sec,Fast (90),1 sec,Melee: Long (1.6),N/A,1000,Air & Ground,x3,Air,Troop,Common
+82,Monk,5,0.8 sec,0.2 sec,Medium (60),1 sec,Melee: Medium (1.2),N/A,N/A,Ground,x1,Ground,Troop,Champion
+83,Monk,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+84,Mother_Witch,4,1 sec,0.3 sec,Medium (60),1 sec,5.5,N/A,600,Air & Ground,x1,Ground,Troop,Legendary
+85,Musketeer,4,1 sec,0.7 sec,Medium (60),1 sec,6,N/A,1000,Air & Ground,x1,Ground,Troop,Rare
+86,Musketeer/Evolution,4,1 sec,0.7 sec,Medium (60),1 sec,6,N/A,1000,Air & Ground,x1,Ground,Troop,Rare
+87,Night_Witch,4,1.3 sec,0.75 sec,Medium (60),1 sec,Melee: Long (1.6),N/A,N/A,Ground,x1,Ground,Troop,Legendary
+88,P.E.K.K.A.,7,1.8 sec,0.5 sec,Slow (45),1 sec,Melee: Medium (1.2),N/A,N/A,Ground,x1,Ground,Troop,Epic
+89,P.E.K.K.A./Evolution,7,1.8 sec,0.5 sec,Slow (45),1 sec,Melee: Medium (1.2),N/A,N/A,Ground,x1,Ground,Troop,Epic
+90,Phoenix,4,1 sec,0.5 sec,Medium (60),1 sec,Melee: Long (1.6),N/A,N/A,Air & Ground,x1,Air,Troop,Legendary
+91,Prince,5,1.4 sec,0.5 sec,Medium (60),1 sec,Melee: Long (1.6),N/A,N/A,Ground,x1,Ground,Troop,Epic
+92,Princess,3,3 sec,0.3 sec,Medium (60),1.2 sec,9,2,600,Air & Ground,x1,Ground,Troop,Legendary
+93,Raging_Prince,5,1.4 sec,0.5 sec,Medium (60),1 sec,Melee: Long (1.6),N/A,N/A,Ground,x1,Ground,Troop,Epic
+94,Ram_Rider,5,1.8 sec,0.6 sec,Medium (60),1 sec,Melee: Short (0.8),N/A,N/A,Buildings,x1,Ground,Troop,Legendary
+95,Rascals,N/A,1.5 sec,0.4 sec,Medium (60),N/A,Melee: Short (0.8),N/A,N/A,Ground,x1,Ground,N/A,N/A
+96,Royal_Ghost,3,1.8 sec,0.6 sec,Fast (90),1 sec,Melee: Medium (1.2),N/A,N/A,Ground,x1,Ground,Troop,Legendary
+97,Royal_Giant,6,1.7 sec,0.9 sec,Slow (45),1 sec,5,N/A,1000,Buildings,x1,Ground,Troop,Common
+98,Royal_Giant/Evolution,6,1.7 sec,0.9 sec,Slow (45),1 sec,5,N/A,1000,Buildings,x1,Ground,Troop,Common
+99,Royal_Hogs,5,1.2 sec,0.4 sec,Very Fast (120),1 sec,Melee: Short (0.7),N/A,N/A,Buildings,x4,Ground,Troop,Rare
+100,Royal_Recruits,7,1.3 sec,0.5 sec,Medium (60),1 sec,Melee: Long (1.6),N/A,N/A,Ground,x6,Ground,Troop,Common
+101,Royal_Recruits/Evolution,7,1.3 sec,0.5 sec,Medium (60),1 sec,Melee: Long (1.6),N/A,N/A,Ground,x6,Ground,Troop,Common
+102,Rune_Giant,4,1.5 sec,0.5 sec,Medium (60),1 sec,Melee: Medium (1.2),N/A,N/A,Building,x1,Ground,Troop,Epic
+103,Santa_Hog_Rider,5,1.6 sec,0.6 sec,Very Fast (120),1 sec,Melee: Short (0.8),N/A,N/A,Buildings,x1,Ground,Troop,Legendary
+104,Skeleton_Army,3,1 sec,0.5 sec,Fast (90),1 sec,Melee: Short (0.5),N/A,N/A,Ground,x15,Ground,Troop,Epic
+105,Skeleton_Barrel,3,N/A,N/A,Fast (90),1 sec,Melee: Short (0.35),N/A,N/A,Buildings,N/A,Air,Troop,Common
+106,Skeleton_Barrel,N/A,N/A,N/A,N/A,0.6 sec,N/A,N/A,N/A,Air & Ground,N/A,N/A,N/A,N/A
+107,Skeleton_Dragons,4,1.9 sec,0.4 sec,Fast (90),1 sec,3.5,0.8,500,Air & Ground,x2,Air,Troop,Common
+108,Skeleton_King,4,1.6 sec,0.3 sec,Medium (60),1 sec,Melee: Medium (1.2),1.3,N/A,Ground,x1,Ground,Troop,Champion
+109,Skeleton_King,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+110,Skeletons,1,1 sec,0.5 sec,Fast (90),1 sec,Melee: Short (0.5),N/A,N/A,Ground,x3,Ground,Troop,Common
+111,Skeletons/Evolution,1,1 sec,0.5 sec,Fast (90),1 sec,Melee: Short (0.5),N/A,N/A,Ground,x3,Ground,Troop,Common
+112,Sparky,6,4 sec,1 sec,Slow (45),1 sec,5,1.8,1400,Ground,x1,Ground,Troop,Legendary
+113,Spear_Goblins,2,1.7 sec,0.4 sec,Very Fast (120),1 sec,5.5,N/A,500,Air & Ground,x3,Ground,Troop,Common
+114,Super_Archers,3,2 sec,0.5 sec,Medium (60),1 sec,5,N/A,400,Air & Ground,x2,Ground,Troop,Legendary
+115,Super_Ice_Golem,4,2.5 sec,1 sec,Very Slow (30),1 sec,Melee: Short (0.75),N/A,N/A,Buildings,x1,Ground,Troop,Legendary
+116,Super_Knight,4,1.2 sec,0.5 sec,Medium (60),1 sec,Melee: Medium (1.2),N/A,N/A,Ground,x1,Ground,Troop,Legendary
+117,Super_Lava_Hound,8,1.3 sec,1 sec,Slow (45),1 sec,3.5,N/A,400,Buildings,x1,Air,Troop,Legendary
+118,Super_Magic_Archer,5,2 sec,1.5 sec,Medium (60),1 sec,7,N/A,1000,Air & Ground,x1,Ground,Troop,Legendary
+119,Super_Mini_P.E.K.K.A.,5,1.6 sec,0.5 sec,Fast (90),1 sec,Melee: Short (0.8),N/A,N/A,Ground,x1,Ground,Troop,Legendary
+120,Super_Mini_P.E.K.K.A.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Air & Ground,N/A,N/A,N/A,N/A
+121,Super_Witch,5,1.1 sec,0.4 sec,Medium (60),1 sec,5.5,N/A,600,Air & Ground,x1,Ground,Troop,Legendary
+122,Super_Witch,N/A,1.2 sec,0.25 sec,Very Fast (120),N/A,Melee: Short (0.75),N/A,N/A,Buildings,N/A,Ground,N/A,N/A
+123,Suspicious_Bush,2,N/A,N/A,Medium (60),1 sec,Melee: Short (0.5),N/A,N/A,Buildings,x1,Ground,Troop,Rare
+124,Terry,4,1.6 sec,0.6 sec,Very Fast (120),1 sec,Melee: Short (0.8),N/A,N/A,Buildings,x1,Ground,Troop,Champion
+125,Terry,1,N/A,N/A,N/A,1 sec,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+126,Three_Musketeers,9,1 sec,0.7 sec,Medium (60),1 sec,6,N/A,1000,Air & Ground,x3,Ground,Troop,Rare
+127,Valkyrie,4,1.5 sec,0.1 sec,Medium (60),1 sec,Melee: Medium (1.2),2,N/A,Ground,x1,Ground,Troop,Rare
+128,Valkyrie/Evolution,4,1.5 sec,0.1 sec,Medium (60),1 sec,Melee: Medium (1.2),2,N/A,Ground,x1,Ground,Troop,Rare
+129,Wall_Breakers,2,N/A,N/A,Very Fast (120),1 sec,Melee: Short (0.5),1.5,N/A,Buildings,x2,Ground,Troop,Epic
+130,Wall_Breakers/Evolution,2,N/A,N/A,Very Fast (120),1 sec,Melee: Short (0.5),1.5,N/A,Buildings,x2,Ground,Troop,Epic
+131,Witch,5,1.1 sec,0.7 sec,Medium (60),1 sec,5.5,1.5,600,Air & Ground,x1,Ground,Troop,Epic
+132,Witch/Evolution,5,1.1 sec,0.7 sec,Medium (60),1 sec,5.5,1.5,600,Air & Ground,x1,Ground,Troop,Epic
+133,Wizard,5,1.4 sec,0.4 sec,Medium (60),1 sec,5.5,1.5,600,Air & Ground,x1,Ground,Troop,Rare
+134,Wizard_Trio,N/A,1.8 sec,0.6 sec,Fast (90),1 sec,5,N/A,N/A,Air & Ground,x1,Ground,N/A,N/A
+135,Wizard/Evolution,5,1.4 sec,0.4 sec,Medium (60),1 sec,5.5,1.5,600,Air & Ground,x1,Ground,Troop,Rare
+136,Zappies,4,2.1 sec,1.1 sec,Medium (60),1 sec,4.5,N/A,N/A,Air & Ground,x3,Ground,Troop,Rare
