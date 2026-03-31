@@ -1,122 +1,122 @@
-TroopName,Cost,HitSpeed,FirstHitSpeed,SpeedCategory,SpeedValue,DeployTime,Range,SplashRadius,ProjectileSpeed,Target,Count,Transport,Type,Rarity
-Archer_Queen,5.0,1.2,0.3,Medium,60.0,1.0,5.0,,800.0,Air & Ground,1.0,Ground,Troop,Champion
-Archers,3.0,0.9,0.5,Medium,60.0,1.0,5.0,,600.0,Air & Ground,2.0,Ground,Troop,Common
-Archers/Evolution,3.0,0.9,0.5,Medium,60.0,1.0,6.0,,600.0,Air & Ground,2.0,Ground,Troop,Common
-Baby_Dragon,4.0,1.5,0.3,Fast,90.0,1.0,3.5,1.5,500.0,Air & Ground,1.0,Air,Troop,Epic
-Balloon,5.0,2.0,0.2,Medium,60.0,1.0,0.1,,,Buildings,1.0,Air,Troop,Epic
-Bandit,3.0,1.0,0.4,Fast,90.0,1.0,0.75,,,Ground,1.0,Ground,Troop,Legendary
-Barbarians,5.0,1.3,0.4,Medium,60.0,1.0,0.7,,,Ground,5.0,Ground,Troop,Common
-Barbarians/Evolution,5.0,1.3,0.4,Medium,60.0,1.0,0.7,,,Ground,5.0,Ground,Troop,Common
-Bats,2.0,1.3,0.6,Very Fast,120.0,1.0,1.2,,,Air & Ground,5.0,Air,Troop,Common
-Bats/Evolution,2.0,1.3,0.6,Very Fast,120.0,1.0,1.2,,,Air & Ground,5.0,Air,Troop,Common
-Battle_Healer,4.0,1.5,,Medium,60.0,1.0,1.6,,,Ground,1.0,Ground,Troop,Rare
-Battle_Ram,4.0,,,Medium,60.0,1.0,0.5,,,Buildings,1.0,Ground,Troop,Rare
-Battle_Ram/Evolution,4.0,,,Medium,60.0,1.0,0.5,,,Buildings,1.0,Ground,Troop,Rare
-Berserker,2.0,0.5,0.2,Fast,90.0,1.0,0.8,,,Ground,1.0,Ground,Troop,Common
-Bomber,2.0,1.8,0.2,Medium,60.0,1.0,4.5,1.5,400.0,Ground,1.0,Ground,Troop,Common
-Bomber/Evolution,2.0,1.8,0.2,Medium,60.0,1.0,4.5,1.5,400.0,Ground,1.0,Ground,Troop,Common
-Boss_Bandit,6.0,1.2,0.4,Fast,90.0,1.0,0.8,,,Ground,1.0,Ground,Troop,Champion
-Bowler,5.0,2.5,0.5,Slow,45.0,1.0,4.0,,170.0,Ground,1.0,Ground,Troop,Epic
-Cannon_Cart,5.0,0.9,0.5,Medium,60.0,1.0,5.5,,1000.0,Ground,1.0,Ground,Troop,Epic
-Dark_Prince,4.0,1.3,0.4,Medium,60.0,1.0,1.2,1.1,,Ground,1.0,Ground,Troop,Epic
-Dart_Goblin,3.0,0.7,0.35,Very Fast,120.0,1.0,6.5,,800.0,Air & Ground,1.0,Ground,Troop,Rare
-Dart_Goblin/Evolution,3.0,0.7,0.35,Very Fast,120.0,1.0,6.5,,800.0,Air & Ground,1.0,Ground,Troop,Rare
-Electro_Dragon,5.0,2.1,0.7,Medium,60.0,1.0,3.5,,,Air & Ground,1.0,Air,Troop,Epic
-Electro_Dragon/Evolution,5.0,2.1,0.7,Medium,60.0,1.0,3.5,,,Air & Ground,1.0,Air,Troop,Epic
-Electro_Giant,7.0,2.1,1.5,Slow,45.0,1.0,1.2,,,Buildings,1.0,Ground,Troop,Epic
-Electro_Spirit,1.0,,,Very Fast,120.0,1.0,2.5,,,Air & Ground,1.0,Ground,Troop,Common
-Electro_Wizard,4.0,1.8,0.6,Fast,90.0,1.0,5.0,,,Air & Ground,,Ground,Troop,Legendary
-Elite_Barbarians,6.0,1.4,0.5,Fast,90.0,1.0,1.2,,,Ground,2.0,Ground,Troop,Common
-Elixir_Golem,3.0,1.1,0.8,Slow,45.0,1.0,0.8,,,Buildings,1.0,Ground,Troop,Rare
-Executioner,5.0,0.9,0.5,Medium,60.0,1.0,4.5,,550.0,Air & Ground,1.0,Ground,Troop,Epic
-Executioner/Evolution,5.0,0.9,0.5,Medium,60.0,1.0,4.5,,550.0,Air & Ground,1.0,Ground,Troop,Epic
-Fire_Spirit,1.0,,,Very Fast,120.0,1.0,2.5,2.3,,Air & Ground,1.0,Ground,Troop,Common
-Firecracker,3.0,3.0,0.65,Fast,90.0,1.0,6.0,,550.0,Air & Ground,1.0,Ground,Troop,Common
-Firecracker/Evolution,3.0,3.0,0.65,Fast,90.0,1.0,6.0,,550.0,Air & Ground,1.0,Ground,Troop,Common
-Fisherman,3.0,1.3,0.1,Medium,60.0,1.0,1.2,,,Ground,1.0,Ground,Troop,Legendary
-Flying_Machine,4.0,1.1,0.5,Fast,90.0,1.0,6.0,,800.0,Air & Ground,1.0,Air,Troop,Rare
-Giant,5.0,1.5,0.5,Slow,45.0,1.0,1.2,,,Buildings,1.0,Ground,Troop,Rare
-Giant_Skeleton,6.0,1.4,0.3,Medium,60.0,1.0,0.8,,,Ground,1.0,Ground,Troop,Epic
-Goblin_Demolisher,4.0,1.2,0.5,Medium,60.0,1.0,5.0,,,Ground,1.0,Ground,Troop,Rare
-Goblin_Gang,,1.1,0.6,Very Fast,120.0,,0.5,,,Ground,3.0,Ground,,
-Goblin_Giant,6.0,1.5,0.8,Medium,60.0,1.0,1.2,,,Buildings,1.0,Ground,Troop,Epic
-Goblin_Giant/Evolution,6.0,1.5,0.8,Medium,60.0,1.0,1.2,,,Buildings,1.0,Ground,Troop,Epic
-Goblin_Machine,5.0,1.2,0.5,Medium,60.0,1.0,1.2,,,Ground,1.0,Ground,Troop,Legendary
-Goblins,2.0,1.1,0.6,Very Fast,120.0,1.0,0.5,,,Ground,4.0,Ground,Troop,Common
-Goblinstein,,1.8,0.5,Medium,60.0,,5.5,,,Air & Ground,1.0,Ground,,
-Golden_Knight,4.0,0.9,0.2,Medium,60.0,1.0,1.2,,,Ground,1.0,Ground,Troop,Champion
-Golem,8.0,2.5,1.0,Slow,45.0,3.0,0.75,,,Buildings,1.0,Ground,Troop,Epic
-Guards,3.0,1.0,0.4,Fast,90.0,1.0,1.6,,,Ground,3.0,Ground,Troop,Epic
-Heal_Spirit,1.0,,,Very Fast,120.0,1.0,2.5,1.5,,Air & Ground,,Ground,Troop,Rare
-Hog_Rider,4.0,1.6,0.6,Very Fast,120.0,1.0,0.8,,,Buildings,1.0,Ground,Troop,Rare
-Hunter,4.0,2.2,0.8,Medium,60.0,1.0,4.0,,550.0,Air & Ground,1.0,Ground,Troop,Epic
-Hunter/Evolution,4.0,2.2,0.8,Medium,60.0,1.0,4.0,,550.0,Air & Ground,1.0,Ground,Troop,Epic
-Ice_Golem,2.0,2.5,1.0,Slow,45.0,1.0,0.75,,,Buildings,1.0,Ground,Troop,Rare
-Ice_Spirit,1.0,,,Very Fast,120.0,1.0,2.5,1.5,,Air & Ground,,Ground,Troop,Common
-Ice_Spirit/Evolution,1.0,,,Very Fast,120.0,1.0,2.5,2.0,,Air & Ground,,Ground,Troop,Common
-Ice_Wizard,3.0,1.7,0.5,Medium,60.0,1.0,5.5,1.5,700.0,Air & Ground,1.0,Ground,Troop,Legendary
-Inferno_Dragon,4.0,0.4,,Medium,60.0,1.0,3.5,,,Air & Ground,1.0,Air,Troop,Legendary
-Knight,3.0,1.2,0.5,Medium,60.0,1.0,1.2,,,Ground,1.0,Ground,Troop,Common
-Knight/Evolution,3.0,1.2,0.5,Medium,60.0,1.0,1.2,,,Ground,1.0,Ground,Troop,Common
-Lava_Hound,7.0,1.3,1.0,Slow,45.0,1.0,3.5,,400.0,Buildings,1.0,Air,Troop,Legendary
-Little_Prince,3.0,,0.4,Medium,60.0,1.0,5.5,,800.0,Air & Ground,1.0,Ground,Troop,Champion
-Lumberjack,4.0,0.8,0.4,Very Fast,120.0,1.0,0.7,,,Ground,,Ground,Troop,Legendary
-Lumberjack/Evolution,4.0,0.8,0.4,Very Fast,120.0,1.0,0.7,,,Ground,,Ground,Troop,Legendary
-Magic_Archer,4.0,1.1,0.7,Medium,60.0,1.0,7.0,,1000.0,Air & Ground,1.0,Ground,Troop,Legendary
-Mega_Knight,7.0,1.7,0.5,Medium,60.0,1.0,1.2,1.3,,Ground,1.0,Ground,Troop,Legendary
-Mega_Knight/Evolution,7.0,1.7,0.5,Medium,60.0,1.0,1.2,1.3,,Ground,1.0,Ground,Troop,Legendary
-Mega_Minion,3.0,1.5,0.4,Medium,60.0,1.0,1.6,,1000.0,Air & Ground,1.0,Air,Troop,Rare
-Mighty_Miner,4.0,0.4,,Medium,60.0,1.0,1.6,,,Ground,1.0,Ground,Troop,Champion
-Miner,3.0,1.2,0.5,Fast,90.0,1.0,1.2,,,Ground,1.0,Ground,Troop,Legendary
-Mini_P.E.K.K.A.,4.0,1.6,0.5,Fast,90.0,1.0,0.8,,,Ground,1.0,Ground,Troop,Rare
-Minion_Horde,5.0,1.0,0.5,Fast,90.0,1.0,1.6,,1000.0,Air & Ground,6.0,Air,Troop,Common
-Minions,3.0,1.0,0.5,Fast,90.0,1.0,1.6,,1000.0,Air & Ground,3.0,Air,Troop,Common
-Monk,5.0,0.8,0.2,Medium,60.0,1.0,1.2,,,Ground,1.0,Ground,Troop,Champion
-Mother_Witch,4.0,1.0,0.3,Medium,60.0,1.0,5.5,,600.0,Air & Ground,1.0,Ground,Troop,Legendary
-Musketeer,4.0,1.0,0.7,Medium,60.0,1.0,6.0,,1000.0,Air & Ground,1.0,Ground,Troop,Rare
-Musketeer/Evolution,4.0,1.0,0.7,Medium,60.0,1.0,6.0,,1000.0,Air & Ground,1.0,Ground,Troop,Rare
-Night_Witch,4.0,1.3,0.75,Medium,60.0,1.0,1.6,,,Ground,1.0,Ground,Troop,Legendary
-P.E.K.K.A.,7.0,1.8,0.5,Slow,45.0,1.0,1.2,,,Ground,1.0,Ground,Troop,Epic
-P.E.K.K.A./Evolution,7.0,1.8,0.5,Slow,45.0,1.0,1.2,,,Ground,1.0,Ground,Troop,Epic
-Phoenix,4.0,1.0,0.5,Medium,60.0,1.0,1.6,,,Air & Ground,1.0,Air,Troop,Legendary
-Prince,5.0,1.4,0.5,Medium,60.0,1.0,1.6,,,Ground,1.0,Ground,Troop,Epic
-Princess,3.0,3.0,0.3,Medium,60.0,1.2,9.0,2.0,600.0,Air & Ground,1.0,Ground,Troop,Legendary
-Raging_Prince,5.0,1.4,0.5,Medium,60.0,1.0,1.6,,,Ground,1.0,Ground,Troop,Epic
-Ram_Rider,5.0,1.8,0.6,Medium,60.0,1.0,0.8,,,Buildings,1.0,Ground,Troop,Legendary
-Rascals,,1.5,0.4,Medium,60.0,,0.8,,,Ground,1.0,Ground,,
-Royal_Ghost,3.0,1.8,0.6,Fast,90.0,1.0,1.2,,,Ground,1.0,Ground,Troop,Legendary
-Royal_Giant,6.0,1.7,0.9,Slow,45.0,1.0,5.0,,1000.0,Buildings,1.0,Ground,Troop,Common
-Royal_Giant/Evolution,6.0,1.7,0.9,Slow,45.0,1.0,5.0,,1000.0,Buildings,1.0,Ground,Troop,Common
-Royal_Hogs,5.0,1.2,0.4,Very Fast,120.0,1.0,0.7,,,Buildings,4.0,Ground,Troop,Rare
-Royal_Recruits,7.0,1.3,0.5,Medium,60.0,1.0,1.6,,,Ground,6.0,Ground,Troop,Common
-Royal_Recruits/Evolution,7.0,1.3,0.5,Medium,60.0,1.0,1.6,,,Ground,6.0,Ground,Troop,Common
-Rune_Giant,4.0,1.5,0.5,Medium,60.0,1.0,1.2,,,Building,1.0,Ground,Troop,Epic
-Santa_Hog_Rider,5.0,1.6,0.6,Very Fast,120.0,1.0,0.8,,,Buildings,1.0,Ground,Troop,Legendary
-Skeleton_Army,3.0,1.0,0.5,Fast,90.0,1.0,0.5,,,Ground,15.0,Ground,Troop,Epic
-Skeleton_Barrel,3.0,,,Fast,90.0,1.0,0.35,,,Buildings,,Air,Troop,Common
-Skeleton_Dragons,4.0,1.9,0.4,Fast,90.0,1.0,3.5,0.8,500.0,Air & Ground,2.0,Air,Troop,Common
-Skeleton_King,4.0,1.6,0.3,Medium,60.0,1.0,1.2,1.3,,Ground,1.0,Ground,Troop,Champion
-Skeletons,1.0,1.0,0.5,Fast,90.0,1.0,0.5,,,Ground,3.0,Ground,Troop,Common
-Skeletons/Evolution,1.0,1.0,0.5,Fast,90.0,1.0,0.5,,,Ground,3.0,Ground,Troop,Common
-Sparky,6.0,4.0,1.0,Slow,45.0,1.0,5.0,1.8,1400.0,Ground,1.0,Ground,Troop,Legendary
-Spear_Goblins,2.0,1.7,0.4,Very Fast,120.0,1.0,5.5,,500.0,Air & Ground,3.0,Ground,Troop,Common
-Super_Archers,3.0,2.0,0.5,Medium,60.0,1.0,5.0,,400.0,Air & Ground,2.0,Ground,Troop,Legendary
-Super_Ice_Golem,4.0,2.5,1.0,Very Slow,30.0,1.0,0.75,,,Buildings,1.0,Ground,Troop,Legendary
-Super_Knight,4.0,1.2,0.5,Medium,60.0,1.0,1.2,,,Ground,1.0,Ground,Troop,Legendary
-Super_Lava_Hound,8.0,1.3,1.0,Slow,45.0,1.0,3.5,,400.0,Buildings,1.0,Air,Troop,Legendary
-Super_Magic_Archer,5.0,2.0,1.5,Medium,60.0,1.0,7.0,,1000.0,Air & Ground,1.0,Ground,Troop,Legendary
-Super_Mini_P.E.K.K.A.,5.0,1.6,0.5,Fast,90.0,1.0,0.8,,,Ground,1.0,Ground,Troop,Legendary
-Super_Witch,5.0,1.1,0.4,Medium,60.0,1.0,5.5,,600.0,Air & Ground,1.0,Ground,Troop,Legendary
-Suspicious_Bush,2.0,,,Medium,60.0,1.0,0.5,,,Buildings,1.0,Ground,Troop,Rare
-Terry,4.0,1.6,0.6,Very Fast,120.0,1.0,0.8,,,Buildings,1.0,Ground,Troop,Champion
-Three_Musketeers,9.0,1.0,0.7,Medium,60.0,1.0,6.0,,1000.0,Air & Ground,3.0,Ground,Troop,Rare
-Valkyrie,4.0,1.5,0.1,Medium,60.0,1.0,1.2,2.0,,Ground,1.0,Ground,Troop,Rare
-Valkyrie/Evolution,4.0,1.5,0.1,Medium,60.0,1.0,1.2,2.0,,Ground,1.0,Ground,Troop,Rare
-Wall_Breakers,2.0,,,Very Fast,120.0,1.0,0.5,1.5,,Buildings,2.0,Ground,Troop,Epic
-Wall_Breakers/Evolution,2.0,,,Very Fast,120.0,1.0,0.5,1.5,,Buildings,2.0,Ground,Troop,Epic
-Witch,5.0,1.1,0.7,Medium,60.0,1.0,5.5,1.5,600.0,Air & Ground,1.0,Ground,Troop,Epic
-Witch/Evolution,5.0,1.1,0.7,Medium,60.0,1.0,5.5,1.5,600.0,Air & Ground,1.0,Ground,Troop,Epic
-Wizard,5.0,1.4,0.4,Medium,60.0,1.0,5.5,1.5,600.0,Air & Ground,1.0,Ground,Troop,Rare
-Wizard/Evolution,5.0,1.4,0.4,Medium,60.0,1.0,5.5,1.5,600.0,Air & Ground,1.0,Ground,Troop,Rare
-Wizard_Trio,,1.8,0.6,Fast,90.0,1.0,5.0,,,Air & Ground,1.0,Ground,,
-Zappies,4.0,2.1,1.1,Medium,60.0,1.0,4.5,,,Air & Ground,3.0,Ground,Troop,Rare
+TroopName,Cost,HitSpeed,FirstHitSpeed,Speed,DeployTime,Range,SplashRadius,ProjectileSpeed,Target,Count,Transport,Type,Rarity
+Archer_Queen,5,1.2,0.3,60,1,5,,800,Air & Ground,1,Ground,Troop,Champion
+Archers,3,0.9,0.5,60,1,5,,600,Air & Ground,2,Ground,Troop,Common
+Archers/Evolution,3,0.9,0.5,60,1,6,,600,Air & Ground,2,Ground,Troop,Common
+Baby_Dragon,4,1.5,0.3,90,1,3.5,1.5,500,Air & Ground,1,Air,Troop,Epic
+Balloon,5,2,0.2,60,1,0.1,,,Buildings,1,Air,Troop,Epic
+Bandit,3,1,0.4,90,1,0.75,,,Ground,1,Ground,Troop,Legendary
+Barbarians,5,1.3,0.4,60,1,0.7,,,Ground,5,Ground,Troop,Common
+Barbarians/Evolution,5,1.3,0.4,60,1,0.7,,,Ground,5,Ground,Troop,Common
+Bats,2,1.3,0.6,120,1,1.2,,,Air & Ground,5,Air,Troop,Common
+Bats/Evolution,2,1.3,0.6,120,1,1.2,,,Air & Ground,5,Air,Troop,Common
+Battle_Healer,4,1.5,,60,1,1.6,,,Ground,1,Ground,Troop,Rare
+Battle_Ram,4,,,60,1,0.5,,,Buildings,1,Ground,Troop,Rare
+Battle_Ram/Evolution,4,,,60,1,0.5,,,Buildings,1,Ground,Troop,Rare
+Berserker,2,0.5,0.2,90,1,0.8,,,Ground,1,Ground,Troop,Common
+Bomber,2,1.8,0.2,60,1,4.5,1.5,400,Ground,1,Ground,Troop,Common
+Bomber/Evolution,2,1.8,0.2,60,1,4.5,1.5,400,Ground,1,Ground,Troop,Common
+Boss_Bandit,6,1.2,0.4,90,1,0.8,,,Ground,1,Ground,Troop,Champion
+Bowler,5,2.5,0.5,45,1,4,,170,Ground,1,Ground,Troop,Epic
+Cannon_Cart,5,0.9,0.5,60,1,5.5,,1000,Ground,1,Ground,Troop,Epic
+Dark_Prince,4,1.3,0.4,60,1,1.2,1.1,,Ground,1,Ground,Troop,Epic
+Dart_Goblin,3,0.7,0.35,120,1,6.5,,800,Air & Ground,1,Ground,Troop,Rare
+Dart_Goblin/Evolution,3,0.7,0.35,120,1,6.5,,800,Air & Ground,1,Ground,Troop,Rare
+Electro_Dragon,5,2.1,0.7,60,1,3.5,,,Air & Ground,1,Air,Troop,Epic
+Electro_Dragon/Evolution,5,2.1,0.7,60,1,3.5,,,Air & Ground,1,Air,Troop,Epic
+Electro_Giant,7,2.1,1.5,45,1,1.2,,,Buildings,1,Ground,Troop,Epic
+Electro_Spirit,1,,,120,1,2.5,,,Air & Ground,1,Ground,Troop,Common
+Electro_Wizard,4,1.8,0.6,90,1,5,,,Air & Ground,,Ground,Troop,Legendary
+Elite_Barbarians,6,1.4,0.5,90,1,1.2,,,Ground,2,Ground,Troop,Common
+Elixir_Golem,3,1.1,0.8,45,1,0.8,,,Buildings,1,Ground,Troop,Rare
+Executioner,5,0.9,0.5,60,1,4.5,,550,Air & Ground,1,Ground,Troop,Epic
+Executioner/Evolution,5,0.9,0.5,60,1,4.5,,550,Air & Ground,1,Ground,Troop,Epic
+Fire_Spirit,1,,,120,1,2.5,2.3,,Air & Ground,1,Ground,Troop,Common
+Firecracker,3,3,0.65,90,1,6,,550,Air & Ground,1,Ground,Troop,Common
+Firecracker/Evolution,3,3,0.65,90,1,6,,550,Air & Ground,1,Ground,Troop,Common
+Fisherman,3,1.3,0.1,60,1,1.2,,,Ground,1,Ground,Troop,Legendary
+Flying_Machine,4,1.1,0.5,90,1,6,,800,Air & Ground,1,Air,Troop,Rare
+Giant,5,1.5,0.5,45,1,1.2,,,Buildings,1,Ground,Troop,Rare
+Giant_Skeleton,6,1.4,0.3,60,1,0.8,,,Ground,1,Ground,Troop,Epic
+Goblin_Demolisher,4,1.2,0.5,60,1,5,,,Ground,1,Ground,Troop,Rare
+Goblin_Gang,,1.1,0.6,120,,0.5,,,Ground,3,Ground,,
+Goblin_Giant,6,1.5,0.8,60,1,1.2,,,Buildings,1,Ground,Troop,Epic
+Goblin_Giant/Evolution,6,1.5,0.8,60,1,1.2,,,Buildings,1,Ground,Troop,Epic
+Goblin_Machine,5,1.2,0.5,60,1,1.2,,,Ground,1,Ground,Troop,Legendary
+Goblins,2,1.1,0.6,120,1,0.5,,,Ground,4,Ground,Troop,Common
+Goblinstein,,1.8,0.5,60,,5.5,,,Air & Ground,1,Ground,,
+Golden_Knight,4,0.9,0.2,60,1,1.2,,,Ground,1,Ground,Troop,Champion
+Golem,8,2.5,1,45,3,0.75,,,Buildings,1,Ground,Troop,Epic
+Guards,3,1,0.4,90,1,1.6,,,Ground,3,Ground,Troop,Epic
+Heal_Spirit,1,,,120,1,2.5,1.5,,Air & Ground,,Ground,Troop,Rare
+Hog_Rider,4,1.6,0.6,120,1,0.8,,,Buildings,1,Ground,Troop,Rare
+Hunter,4,2.2,0.8,60,1,4,,550,Air & Ground,1,Ground,Troop,Epic
+Hunter/Evolution,4,2.2,0.8,60,1,4,,550,Air & Ground,1,Ground,Troop,Epic
+Ice_Golem,2,2.5,1,45,1,0.75,,,Buildings,1,Ground,Troop,Rare
+Ice_Spirit,1,,,120,1,2.5,1.5,,Air & Ground,,Ground,Troop,Common
+Ice_Spirit/Evolution,1,,,120,1,2.5,2,,Air & Ground,,Ground,Troop,Common
+Ice_Wizard,3,1.7,0.5,60,1,5.5,1.5,700,Air & Ground,1,Ground,Troop,Legendary
+Inferno_Dragon,4,0.4,,60,1,3.5,,,Air & Ground,1,Air,Troop,Legendary
+Knight,3,1.2,0.5,60,1,1.2,,,Ground,1,Ground,Troop,Common
+Knight/Evolution,3,1.2,0.5,60,1,1.2,,,Ground,1,Ground,Troop,Common
+Lava_Hound,7,1.3,1,45,1,3.5,,400,Buildings,1,Air,Troop,Legendary
+Little_Prince,3,,0.4,60,1,5.5,,800,Air & Ground,1,Ground,Troop,Champion
+Lumberjack,4,0.8,0.4,120,1,0.7,,,Ground,,Ground,Troop,Legendary
+Lumberjack/Evolution,4,0.8,0.4,120,1,0.7,,,Ground,,Ground,Troop,Legendary
+Magic_Archer,4,1.1,0.7,60,1,7,,1000,Air & Ground,1,Ground,Troop,Legendary
+Mega_Knight,7,1.7,0.5,60,1,1.2,1.3,,Ground,1,Ground,Troop,Legendary
+Mega_Knight/Evolution,7,1.7,0.5,60,1,1.2,1.3,,Ground,1,Ground,Troop,Legendary
+Mega_Minion,3,1.5,0.4,60,1,1.6,,1000,Air & Ground,1,Air,Troop,Rare
+Mighty_Miner,4,0.4,,60,1,1.6,,,Ground,1,Ground,Troop,Champion
+Miner,3,1.2,0.5,90,1,1.2,,,Ground,1,Ground,Troop,Legendary
+Mini_P.E.K.K.A.,4,1.6,0.5,90,1,0.8,,,Ground,1,Ground,Troop,Rare
+Minion_Horde,5,1,0.5,90,1,1.6,,1000,Air & Ground,6,Air,Troop,Common
+Minions,3,1,0.5,90,1,1.6,,1000,Air & Ground,3,Air,Troop,Common
+Monk,5,0.8,0.2,60,1,1.2,,,Ground,1,Ground,Troop,Champion
+Mother_Witch,4,1,0.3,60,1,5.5,,600,Air & Ground,1,Ground,Troop,Legendary
+Musketeer,4,1,0.7,60,1,6,,1000,Air & Ground,1,Ground,Troop,Rare
+Musketeer/Evolution,4,1,0.7,60,1,6,,1000,Air & Ground,1,Ground,Troop,Rare
+Night_Witch,4,1.3,0.75,60,1,1.6,,,Ground,1,Ground,Troop,Legendary
+P.E.K.K.A.,7,1.8,0.5,45,1,1.2,,,Ground,1,Ground,Troop,Epic
+P.E.K.K.A./Evolution,7,1.8,0.5,45,1,1.2,,,Ground,1,Ground,Troop,Epic
+Phoenix,4,1,0.5,60,1,1.6,,,Air & Ground,1,Air,Troop,Legendary
+Prince,5,1.4,0.5,60,1,1.6,,,Ground,1,Ground,Troop,Epic
+Princess,3,3,0.3,60,1.2,9,2,600,Air & Ground,1,Ground,Troop,Legendary
+Raging_Prince,5,1.4,0.5,60,1,1.6,,,Ground,1,Ground,Troop,Epic
+Ram_Rider,5,1.8,0.6,60,1,0.8,,,Buildings,1,Ground,Troop,Legendary
+Rascals,,1.5,0.4,60,,0.8,,,Ground,1,Ground,,
+Royal_Ghost,3,1.8,0.6,90,1,1.2,,,Ground,1,Ground,Troop,Legendary
+Royal_Giant,6,1.7,0.9,45,1,5,,1000,Buildings,1,Ground,Troop,Common
+Royal_Giant/Evolution,6,1.7,0.9,45,1,5,,1000,Buildings,1,Ground,Troop,Common
+Royal_Hogs,5,1.2,0.4,120,1,0.7,,,Buildings,4,Ground,Troop,Rare
+Royal_Recruits,7,1.3,0.5,60,1,1.6,,,Ground,6,Ground,Troop,Common
+Royal_Recruits/Evolution,7,1.3,0.5,60,1,1.6,,,Ground,6,Ground,Troop,Common
+Rune_Giant,4,1.5,0.5,60,1,1.2,,,Building,1,Ground,Troop,Epic
+Santa_Hog_Rider,5,1.6,0.6,120,1,0.8,,,Buildings,1,Ground,Troop,Legendary
+Skeleton_Army,3,1,0.5,90,1,0.5,,,Ground,15,Ground,Troop,Epic
+Skeleton_Barrel,3,,,90,1,0.35,,,Buildings,,Air,Troop,Common
+Skeleton_Dragons,4,1.9,0.4,90,1,3.5,0.8,500,Air & Ground,2,Air,Troop,Common
+Skeleton_King,4,1.6,0.3,60,1,1.2,1.3,,Ground,1,Ground,Troop,Champion
+Skeletons,1,1,0.5,90,1,0.5,,,Ground,3,Ground,Troop,Common
+Skeletons/Evolution,1,1,0.5,90,1,0.5,,,Ground,3,Ground,Troop,Common
+Sparky,6,4,1,45,1,5,1.8,1400,Ground,1,Ground,Troop,Legendary
+Spear_Goblins,2,1.7,0.4,120,1,5.5,,500,Air & Ground,3,Ground,Troop,Common
+Super_Archers,3,2,0.5,60,1,5,,400,Air & Ground,2,Ground,Troop,Legendary
+Super_Ice_Golem,4,2.5,1,30,1,0.75,,,Buildings,1,Ground,Troop,Legendary
+Super_Knight,4,1.2,0.5,60,1,1.2,,,Ground,1,Ground,Troop,Legendary
+Super_Lava_Hound,8,1.3,1,45,1,3.5,,400,Buildings,1,Air,Troop,Legendary
+Super_Magic_Archer,5,2,1.5,60,1,7,,1000,Air & Ground,1,Ground,Troop,Legendary
+Super_Mini_P.E.K.K.A.,5,1.6,0.5,90,1,0.8,,,Ground,1,Ground,Troop,Legendary
+Super_Witch,5,1.1,0.4,60,1,5.5,,600,Air & Ground,1,Ground,Troop,Legendary
+Suspicious_Bush,2,,,60,1,0.5,,,Buildings,1,Ground,Troop,Rare
+Terry,4,1.6,0.6,120,1,0.8,,,Buildings,1,Ground,Troop,Champion
+Three_Musketeers,9,1,0.7,60,1,6,,1000,Air & Ground,3,Ground,Troop,Rare
+Valkyrie,4,1.5,0.1,60,1,1.2,2,,Ground,1,Ground,Troop,Rare
+Valkyrie/Evolution,4,1.5,0.1,60,1,1.2,2,,Ground,1,Ground,Troop,Rare
+Wall_Breakers,2,,,120,1,0.5,1.5,,Buildings,2,Ground,Troop,Epic
+Wall_Breakers/Evolution,2,,,120,1,0.5,1.5,,Buildings,2,Ground,Troop,Epic
+Witch,5,1.1,0.7,60,1,5.5,1.5,600,Air & Ground,1,Ground,Troop,Epic
+Witch/Evolution,5,1.1,0.7,60,1,5.5,1.5,600,Air & Ground,1,Ground,Troop,Epic
+Wizard,5,1.4,0.4,60,1,5.5,1.5,600,Air & Ground,1,Ground,Troop,Rare
+Wizard/Evolution,5,1.4,0.4,60,1,5.5,1.5,600,Air & Ground,1,Ground,Troop,Rare
+Wizard_Trio,,1.8,0.6,90,1,5,,,Air & Ground,1,Ground,,
+Zappies,4,2.1,1.1,60,1,4.5,,,Air & Ground,3,Ground,Troop,Rare
