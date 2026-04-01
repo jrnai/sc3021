@@ -38,12 +38,12 @@ Flying_Machine,4,1.1,0.5,90,1,6,,800,Air & Ground,1,Air,Troop,Rare
 Giant,5,1.5,0.5,45,1,1.2,,,Buildings,1,Ground,Troop,Rare
 Giant_Skeleton,6,1.4,0.3,60,1,0.8,,,Ground,1,Ground,Troop,Epic
 Goblin_Demolisher,4,1.2,0.5,60,1,5,,,Ground,1,Ground,Troop,Rare
-Goblin_Gang,,1.1,0.6,120,,0.5,,,Ground,3,Ground,,
+Goblin_Gang,3,1.1,0.6,120,,0.5,,,Ground,3,Ground,,
 Goblin_Giant,6,1.5,0.8,60,1,1.2,,,Buildings,1,Ground,Troop,Epic
 Goblin_Giant/Evolution,6,1.5,0.8,60,1,1.2,,,Buildings,1,Ground,Troop,Epic
 Goblin_Machine,5,1.2,0.5,60,1,1.2,,,Ground,1,Ground,Troop,Legendary
 Goblins,2,1.1,0.6,120,1,0.5,,,Ground,4,Ground,Troop,Common
-Goblinstein,,1.8,0.5,60,,5.5,,,Air & Ground,1,Ground,,
+Goblinstein,5,1.8,0.5,60,,5.5,,,Air & Ground,1,Ground,,
 Golden_Knight,4,0.9,0.2,60,1,1.2,,,Ground,1,Ground,Troop,Champion
 Golem,8,2.5,1,45,3,0.75,,,Buildings,1,Ground,Troop,Epic
 Guards,3,1,0.4,90,1,1.6,,,Ground,3,Ground,Troop,Epic
@@ -83,7 +83,7 @@ Prince,5,1.4,0.5,60,1,1.6,,,Ground,1,Ground,Troop,Epic
 Princess,3,3,0.3,60,1.2,9,2,600,Air & Ground,1,Ground,Troop,Legendary
 Raging_Prince,5,1.4,0.5,60,1,1.6,,,Ground,1,Ground,Troop,Epic
 Ram_Rider,5,1.8,0.6,60,1,0.8,,,Buildings,1,Ground,Troop,Legendary
-Rascals,,1.5,0.4,60,,0.8,,,Ground,1,Ground,,
+Rascals,5,1.5,0.4,60,,0.8,,,Ground,1,Ground,,
 Royal_Ghost,3,1.8,0.6,90,1,1.2,,,Ground,1,Ground,Troop,Legendary
 Royal_Giant,6,1.7,0.9,45,1,5,,1000,Buildings,1,Ground,Troop,Common
 Royal_Giant/Evolution,6,1.7,0.9,45,1,5,,1000,Buildings,1,Ground,Troop,Common
@@ -118,5 +118,4 @@ Witch,5,1.1,0.7,60,1,5.5,1.5,600,Air & Ground,1,Ground,Troop,Epic
 Witch/Evolution,5,1.1,0.7,60,1,5.5,1.5,600,Air & Ground,1,Ground,Troop,Epic
 Wizard,5,1.4,0.4,60,1,5.5,1.5,600,Air & Ground,1,Ground,Troop,Rare
 Wizard/Evolution,5,1.4,0.4,60,1,5.5,1.5,600,Air & Ground,1,Ground,Troop,Rare
-Wizard_Trio,,1.8,0.6,90,1,5,,,Air & Ground,1,Ground,,
 Zappies,4,2.1,1.1,60,1,4.5,,,Air & Ground,3,Ground,Troop,Rare
